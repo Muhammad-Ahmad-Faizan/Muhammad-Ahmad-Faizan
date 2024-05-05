@@ -15,12 +15,13 @@
 - Bachelor of Software Engineering, National Textile University, Faisalabad | 2022-2026 (Ongoing)
  
  ## Skills
-- C# (.NET Framework) + WinForms
-- SQL
-- Python
-- MS Word
-- MS PowerPoint
-- MS Access
+- [![C#](https://img.shields.io/badge/C%23-.NET%20Framework-blue)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+- [![SQL](https://img.shields.io/badge/SQL-blue)](https://en.wikipedia.org/wiki/SQL)
+- [![Python](https://img.shields.io/badge/Python-blue)](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [![MS Word](https://img.shields.io/badge/MS%20Word-blue)](https://en.wikipedia.org/wiki/Microsoft_Word)
+- [![MS PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-blue)](https://en.wikipedia.org/wiki/Microsoft_PowerPoint)
+- [![MS Access](https://img.shields.io/badge/MS%20Access-blue)](https://en.wikipedia.org/wiki/Microsoft_Access)
+
 
 ## Certifications
 - SQL for Data Science
