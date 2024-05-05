@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @AF23coding
-- 👀 I’m interested in C# Coding and DataScientist
-- 🌱 I’m currently learning C# and Database
-- 💞️ I’m looking to collaborate on competitions and differient programming techniques.
-- 📫 How to reach me ...
+# Muhammad Ahmad Faizan
 
-<!---
-AF23coding/AF23coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Ahmad%20Faizan-blue)](https://www.linkedin.com/in/muhammad-ahmad-faizan)
+[![GitHub](https://img.shields.io/badge/GitHub-Muhammad%20Ahmad%20Faizan-darkgreen)](https://github.com/Muhammad-Ahmad-Faizan)
+
+👋 Hi there! I'm Muhammad Ahmad Faizan, a passionate software engineering student at National Textile University, Faisalabad.
+
+## About Me
+- 🔭 I’m currently working on enhancing my skills in software development.
+- 🌱 I’m currently learning C# .NET Framework, SQL, Python, and more.
+- 👯 I’m looking to collaborate on interesting software projects.
+- 💬 Ask me about C#, SQL, Python, or anything related to software development!
+
+## Education
+- Bachelor of Software Engineering, National Textile University, Faisalabad | 2022-2026 (Ongoing)
+ 
+ ## Skills
+- C# (.NET Framework) + WinForms
+- SQL
+- Python
+- MS Word
+- MS PowerPoint
+- MS Access
+
+## Certifications
+- SQL for Data Science
+- Database Design with SQL Server Management Studio (SSMS)
+- What is Data Science?
+- Python
+- C#
+
+## Languages
+- Urdu (Native)
+- English
+- Punjabi
+
+
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-faizan) for any inquiries or collaboration opportunities!
