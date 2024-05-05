@@ -1,3 +1,4 @@
+![Banner](https://github.com/Muhammad-Ahmad-Faizan/Muhammad-Ahmad-Faizan/blob/main/Aspiring%20Software%20Engineer%20%20Proficient%20in%20C%23%2C%20Python%20%26%20SQL%20%20Passionate%20about%20Data%20Science.png)
 # Muhammad Ahmad Faizan
 
 👋 Hi there! I'm Muhammad Ahmad Faizan, a passionate software engineering student at National Textile University, Faisalabad.
