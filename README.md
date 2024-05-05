@@ -15,14 +15,7 @@
 - Bachelor of Software Engineering, National Textile University, Faisalabad | 2022-2026 (Ongoing)
  
  ## Skills
-- [![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-- [![SQL](https://img.icons8.com/color/48/000000/sql.png)](https://en.wikipedia.org/wiki/SQL)
-- [![Python](https://img.icons8.com/color/48/000000/python.png)](https://en.wikipedia.org/wiki/Python_(programming_language))
-- [![MS Word](https://img.icons8.com/color/48/000000/microsoft-word-2019.png)](https://en.wikipedia.org/wiki/Microsoft_Word)
-- [![MS PowerPoint](https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png)](https://en.wikipedia.org/wiki/Microsoft_PowerPoint)
-- [![MS Access](https://img.icons8.com/color/48/000000/microsoft-access-2019.png)](https://en.wikipedia.org/wiki/Microsoft_Access)
-
-
+[![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))  [![SQL](https://img.icons8.com/color/48/000000/sql.png)](https://en.wikipedia.org/wiki/SQL)  [![Python](https://img.icons8.com/color/48/000000/python.png)](https://en.wikipedia.org/wiki/Python_(programming_language))  [![MS Word](https://img.icons8.com/color/48/000000/microsoft-word-2019.png)](https://en.wikipedia.org/wiki/Microsoft_Word)  [![MS PowerPoint](https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png)](https://en.wikipedia.org/wiki/Microsoft_PowerPoint)  [![MS Access](https://img.icons8.com/color/48/000000/microsoft-access-2019.png)](https://en.wikipedia.org/wiki/Microsoft_Access)
 
 ## Certifications
 - SQL for Data Science
