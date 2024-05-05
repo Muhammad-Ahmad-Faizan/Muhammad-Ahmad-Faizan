@@ -1,9 +1,11 @@
 # Muhammad Ahmad Faizan
 
+👋 Hi there! I'm Muhammad Ahmad Faizan, a passionate software engineering student at National Textile University, Faisalabad.
+
+## Connect Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Ahmad%20Faizan-blue)](https://www.linkedin.com/in/muhammad-ahmad-faizan)
 [![GitHub](https://img.shields.io/badge/GitHub-Muhammad%20Ahmad%20Faizan-darkgreen)](https://github.com/Muhammad-Ahmad-Faizan)
-
-👋 Hi there! I'm Muhammad Ahmad Faizan, a passionate software engineering student at National Textile University, Faisalabad.
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-MAF%20Programmer-orange)](https://stackoverflow.com/users/22822117/maf-programmer)
 
 ## About Me
 - 🔭 I’m currently working on enhancing my skills in software development.
