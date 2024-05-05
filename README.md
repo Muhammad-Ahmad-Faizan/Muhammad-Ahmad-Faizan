@@ -15,7 +15,7 @@
 - Bachelor of Software Engineering, National Textile University, Faisalabad | 2022-2026 (Ongoing)
  
  ## Skills
-- [![C#](https://img.shields.io/badge/C%23-.NET%20Framework-blue)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+- [![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 - [![SQL](https://img.shields.io/badge/SQL-blue)](https://en.wikipedia.org/wiki/SQL)
 - [![Python](https://img.shields.io/badge/Python-blue)](https://en.wikipedia.org/wiki/Python_(programming_language))
 - [![MS Word](https://img.shields.io/badge/MS%20Word-blue)](https://en.wikipedia.org/wiki/Microsoft_Word)
