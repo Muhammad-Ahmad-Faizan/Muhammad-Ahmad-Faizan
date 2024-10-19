@@ -30,7 +30,6 @@
 ## Languages
 - Urdu (Native)
 - English
-- Punjabi
 
 
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-faizan) for any inquiries or collaboration opportunities!
