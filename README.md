@@ -9,23 +9,40 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-MAF%20Programmer-orange)](https://stackoverflow.com/users/22822117/maf-programmer)
 
 ## About Me
-- 🔭 I’m currently working on enhancing my skills in software development.
-- 🌱 I’m currently learning C# .NET Framework, SQL, Python, and more.
-- 👯 I’m looking to collaborate on interesting software projects.
-- 💬 Ask me about C#, SQL, Python, or anything related to software development!
+- I’m a passionate Software Engineering student at National Textile University, Faisalabad with a strong focus on Data Science, Machine Learning, and Web Development. I enjoy solving real-world problems with code and turning complex data into actionable insights.
 
 ## Education
 - Bachelor of Software Engineering, National Textile University, Faisalabad | 2022-2026 (Ongoing)
  
  ## Skills
-[![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))  [![SQL](https://img.icons8.com/color/48/000000/sql.png)](https://en.wikipedia.org/wiki/SQL)  [![Python](https://img.icons8.com/color/48/000000/python.png)](https://en.wikipedia.org/wiki/Python_(programming_language))  [![MS Word](https://img.icons8.com/color/48/000000/microsoft-word-2019.png)](https://en.wikipedia.org/wiki/Microsoft_Word)  [![MS PowerPoint](https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png)](https://en.wikipedia.org/wiki/Microsoft_PowerPoint)  [![MS Access](https://img.icons8.com/color/48/000000/microsoft-access-2019.png)](https://en.wikipedia.org/wiki/Microsoft_Access)
+- Machine Learning & Data Science:
+
+    Predictive Modeling | Forecasting (SARIMA, LSTM) | NLP | Deep Learning
+
+    Scikit-learn, TensorFlow, Pandas, NumPy, Statsmodels
+
+- Visualization Tools:
+
+    Power BI, Tableau, Looker Studio, Matplotlib, Seaborn, Plotly
+
+- Data Engineering & Backend:
+
+    ETL Pipelines, Data Wrangling
+
+    MySQL, MS SQL Server
+
+- Web Development:
+
+    Flask, Streamlit, REST APIs, HTML, CSS, JavaScript
 
 ## Certifications
-- SQL for Data Science
-- Database Design with SQL Server Management Studio (SSMS)
-- What is Data Science?
-- Python
-- C#
+- Data Science Fundamentals – IBM
+
+- Python & Data Visualization – Kaggle
+
+- SQL for Data Science – University of California
+
+- Data Analytics & Business Intelligence – DigiSkills
 
 ## Languages
 - Urdu (Native)
