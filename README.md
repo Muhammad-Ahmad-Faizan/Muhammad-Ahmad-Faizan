@@ -1,4 +1,5 @@
-![Banner](https://github.com/Muhammad-Ahmad-Faizan/Muhammad-Ahmad-Faizan/blob/main/Aspiring%20Software%20Engineer%20%20Proficient%20in%20C%23%2C%20Python%20%26%20SQL%20%20Passionate%20about%20Data%20Science.png)
+![Banner](https://github.com/user-attachments/assets/728738a7-1f9c-40cf-a7fa-615981ee6fd0)
+
 # Muhammad Ahmad Faizan
 
 👋 Hi there! I'm Muhammad Ahmad Faizan, a passionate software engineering student at National Textile University, Faisalabad.
@@ -35,6 +36,24 @@
 
     Flask, Streamlit, REST APIs, HTML, CSS, JavaScript
 
+
+## 🧠 Projects & Portfolio
+📈 Stock Analysis & Forecasting App
+
+Real-time stock data with advanced forecasting using SARIMA and interactive visualizations.
+Tech Stack: Python, Streamlit, Yahoo Finance API, Plotly
+🌐 TransLang – AI-Powered Language Translator
+
+Built a real-time multilingual translation app using GoogleTrans and Streamlit.
+Features: Auto language detection, 100+ languages, text-to-speech
+🧾 PixelSonix – OCR-Based Image to Text & Speech
+
+Extracts and reads text from images using Tesseract OCR and gTTS.
+Tech Stack: Flask, HTML, CSS, JavaScript
+💳 Financial Fraud Detection
+
+Analyzed and predicted fraud using Gradient Boosting and XGBoost with 99% accuracy.
+Dashboard: Built with Looker Studio for real-time visualization.
 ## Certifications
 - Data Science Fundamentals – IBM
 
