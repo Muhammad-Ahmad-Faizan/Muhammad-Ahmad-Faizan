@@ -34,7 +34,7 @@
 
 - Web Development:
 
-    Flask, Streamlit, REST APIs, HTML, CSS, JavaScript
+    Flask, Streamlit, HTML, CSS, JavaScript
 
 
 ## 🧠 Projects & Portfolio
