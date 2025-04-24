@@ -39,21 +39,21 @@
 
 ## 🧠 Projects & Portfolio
 📈 Stock Analysis & Forecasting App
-
 Real-time stock data with advanced forecasting using SARIMA and interactive visualizations.
 Tech Stack: Python, Streamlit, Yahoo Finance API, Plotly
-🌐 TransLang – AI-Powered Language Translator
 
+🌐 TransLang – AI-Powered Language Translator
 Built a real-time multilingual translation app using GoogleTrans and Streamlit.
 Features: Auto language detection, 100+ languages, text-to-speech
-🧾 PixelSonix – OCR-Based Image to Text & Speech
 
+🧾 PixelSonix – OCR-Based Image to Text & Speech
 Extracts and reads text from images using Tesseract OCR and gTTS.
 Tech Stack: Flask, HTML, CSS, JavaScript
-💳 Financial Fraud Detection
 
+💳 Financial Fraud Detection
 Analyzed and predicted fraud using Gradient Boosting and XGBoost with 99% accuracy.
 Dashboard: Built with Looker Studio for real-time visualization.
+
 ## Certifications
 - Data Science Fundamentals – IBM
 
